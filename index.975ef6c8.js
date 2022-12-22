@@ -27090,7 +27090,7 @@ var _stylesCss = require("./styles.css");
     name: "Sahil Bansal",
     title: "Software Engineer & Instructor",
     email: "shlbnsl843@gmail.com",
-    gitHub: "sahilbansal11",
+    gitHub: "sahilbansal17",
     instagram: "sahilbansal1711",
     linkedIn: "sahilbansal17",
     medium: "sahilbansal17",
@@ -28755,24 +28755,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "ARM Assembly Program Simulator with Multicycle operations and Pipeline!",
-        description: "The simulator is capable of displaying, after each instruction, the various instructions that are currently residing in the pipeline, along with the stage that they are in.",
-        url: "https://github.com/sahilbansal17/CSL216-Assignments/tree/master/A5"
-    },
-    {
         title: "Pocket Tanks",
-        description: "The game starts with two tanks placed in the two halves of the screen over a randomly generated terrain. Play it below:",
+        description: "The game starts with two tanks placed in the two halves of the screen over a randomly generated terrain. Play on above link!",
         url: "https://sahilbansal17.github.io/Pocket_Tanks/"
     },
     {
-        title: "AC Circuit Solver",
-        description: "Given the netlist, this program draws an AC circuit and finds the current/voltage values.",
-        url: "https://github.com/sahilbansal17/AC_Circuit_Solver"
+        title: "eCSe Notes",
+        description: "Notes for Software Engineering, DBMS, OS and Computer Vision courses at College! Read on above link!",
+        url: "https://sahilbansal17.github.io/eCSe-Notes/"
     },
     {
         title: "Screensaver Colliding Balls",
         description: "A simple screen saver is displayed with n (variable - user chosen) number of balls on the screen. There are two modes provided (2D & 3D).",
         url: "https://github.com/sahilbansal17/Screensaver-Colliding-Balls"
+    },
+    {
+        title: "Compeititive Coding Blog",
+        description: "A blog on competitive coding with detailed explanations to Codeforces and other online judge problems! Read at above link.",
+        url: "https://sahilbansal17.github.io/Competitive_Coding/"
     }, 
 ];
 const Portfolio = ()=>{

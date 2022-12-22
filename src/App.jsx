@@ -27,7 +27,7 @@ const siteProps = {
   name: "Sahil Bansal",
   title: "Software Engineer & Instructor",
   email: "shlbnsl843@gmail.com",
-  gitHub: "sahilbansal11",
+  gitHub: "sahilbansal17",
   instagram: "sahilbansal1711",
   linkedIn: "sahilbansal17",
   medium: "sahilbansal17",

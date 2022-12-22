@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ARM Assembly Program Simulator with Multicycle operations and Pipeline!",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The simulator is capable of displaying, after each instruction, the various instructions that are currently residing in the pipeline, along with the stage that they are in.",
+    url: "https://github.com/sahilbansal17/CSL216-Assignments/tree/master/A5",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pocket Tanks",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The game starts with two tanks placed in the two halves of the screen over a randomly generated terrain. Play it below:",
+    url: "https://sahilbansal17.github.io/Pocket_Tanks/",
   },
   {
-    title: "My Resume Site",
+    title: "AC Circuit Solver",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Given the netlist, this program draws an AC circuit and finds the current/voltage values.",
+    url: "https://github.com/sahilbansal17/AC_Circuit_Solver",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Screensaver Colliding Balls",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple screen saver is displayed with n (variable - user chosen) number of balls on the screen. There are two modes provided (2D & 3D).",
+    url: "https://github.com/sahilbansal17/Screensaver-Colliding-Balls",
   },
 ];
 

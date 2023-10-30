@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://realatomic.tech",
+  "homepage": "http://sahilbansal.masterclass.openswe.io",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://realatomic.tech/'",
+    "build-gh": "parcel build --public-url 'http://sahilbansal.masterclass.openswe.io/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
